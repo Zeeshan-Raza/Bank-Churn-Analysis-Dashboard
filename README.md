@@ -1,5 +1,10 @@
 # Bank-Churn-Analysis-Dashboard
 ## Bank Churn Analysis Dashboard Project 
+![Bank Churn Analysis Dashboard](https://github.com/Zeeshan-Raza/Bank-Churn-Analysis-Dashboard/assets/94892875/e28552de-06ad-4460-a01d-2aa01609f1ea)
+
+
+
+
 ## Objective/Situation
 Our bank was facing a high churn rate, with too many customers leaving, which was hurting our revenue and customer loyalty. We needed to understand why customers were leaving and find ways to keep them. To do this, we needed a detailed analysis of our customer data.
 
@@ -61,9 +66,12 @@ I added interactive features like drill-down  capabilities and filters so users 
 
 ## Result
 **1)** **Improved Insights:** The dashboard provided clear and actionable insights into why customers were leaving, helping the bank to understand and address the underlying issues.
+
 **2)** **Strategic Decision-Making:** It enabled the management to implement targeted retention strategies based on data, such as focusing on specific customer segments or improving certain products.
+
 **3)** **Reduced Churn:** Within six months of using the dashboard, we saw a **15%** reduction in the churn rate.
 Increased Customer Satisfaction: By identifying and addressing key issues, customer satisfaction improved by **20%**.
+
 **4)** **Cost Savings:** The reduction in churn led to significant savings in customer acquisition and retention costs, estimated at around **10%** of the annual budget.
 The Bank Churn Analysis Dashboard became a valuable tool in transforming our approach to customer retention, leading to better customer loyalty and a more stable customer base.
 
